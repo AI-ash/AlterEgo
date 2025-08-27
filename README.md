@@ -4,7 +4,7 @@
 [![Python](https://img.shields.io/badge/Made%20with-Python-3776AB?logo=python)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
 [![Contributions Welcome](https://img.shields.io/badge/PRs-Welcome-blue.svg)](#-contributing)
-[![Stars](https://img.shields.io/github/stars/AI-ash/AlterEgo?style=social)](https://github.com/ash333/AlterEgo)
+[![Stars](https://img.shields.io/github/stars/AI-ash/AlterEgo?style=social)](https://github.com/AI-ash/AlterEgo)
 
 ---
 
@@ -122,7 +122,7 @@ This project is licensed under the **MIT License** – free to use, modify & sha
 
 ## 👤 Author
 **Ashish Sharma**  
-🌐 [GitHub](https://github.com/ash333) 
+🌐 [GitHub](https://github.com/AI-ash) 
 
 ---
 
