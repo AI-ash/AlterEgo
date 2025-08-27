@@ -10,7 +10,7 @@ load_dotenv()
 def ai_talk(system_prompt, user_input):
     llm = ChatGroq(
         model="llama-3.3-70b-versatile",   
-        groq_api_key=os.getenv("GROQ_API_KEY"), # type: ignore
+        groq_api_key=os.getenv("groq_api_key"), # type: ignore
         temperature=2,
     )
     memory = ConversationBufferMemory(return_messages=True, memory_key="history")
