@@ -29,12 +29,12 @@ Whether you want a **supportive friend**, a **mentor**, or even a **quirky alter
 
 ## 📂 Project Structure
 ```
-├── main.py # Core AI logic
-├── ui.py # Streamlit UI
-├── requirements.txt # Dependencies (pip)
-├── uv.lock # Dependencies (uv)
-├── .gitignore # Ignored files
-└── README.md # Documentation
+├── main.py           # Core AI logic
+├── streamlit_ui.py   # Streamlit UI
+├── requirements.txt  # Dependencies (pip)
+├── uv.lock           # Dependencies (uv)
+├── .gitignore        # Ignored files
+└── README.md         # Documentation
 ```
 
 
