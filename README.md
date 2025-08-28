@@ -77,7 +77,7 @@ groq_api_key=your_api_key_here
 ## 🖼️ Screenshots
 
 <p align="center">
-  <img src="https://envious-scarlet-fksyglvryj.edgeone.app/alterego.png" alt="AlterEgo Screenshot" width="80%"/>
+  <img src="https://i.pinimg.com/736x/b2/78/72/b2787226cd8a0b2a191ed937cfd9f61c.jpg" alt="AlterEgo Screenshot" width="80%"/>
 </p>
 
 ---
